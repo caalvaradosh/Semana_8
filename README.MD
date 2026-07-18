@@ -2,7 +2,7 @@
 
 ## Información del estudiante
 
-**Nombre:** Clide Alcides Alvarado Shiguango
+**Nombre:** Clide  Alvarado 
 
 **Asignatura:** Programación Orientada a Objetos
 
